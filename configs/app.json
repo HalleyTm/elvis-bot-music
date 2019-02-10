@@ -1,0 +1,23 @@
+{
+  "bot": {
+    "name": "Elvis-Bot",
+    "token": "MzA0MjMxNDk2OTM0MzU5MDUw.DzhWDg.OcS5EX4LBkfjNR9LKblEW8wVDMg",
+    "owners": [
+      "466872033230454799"
+    ],
+    "delete_cmd_messages": true,
+    "default_cmd_prefix": ".",
+    "activity_text": "use .help command"
+  },
+  "youtube": {
+    "token": "AIzaSyB9_DhQnnxORM_YtLcX6GRyW28--Z_-VE8",
+    "base_url": "https://www.youtube.com"
+  },
+  "listen_moe": {
+    "image": "https://listen.moe/files/images/fb_share.jpg",
+    "url": "https://listen.moe",
+    "username": "elvis-bot",
+    "password": "bat123123",
+    "stream": "https://listen.moe/stream"
+  }
+}
